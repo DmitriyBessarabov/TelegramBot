@@ -1,0 +1,12 @@
+C:\Users\Ирина\Desktop\bot\OhMyFollowBot\obj\Debug\OhMyFollowBot.csprojAssemblyReference.cache
+C:\Users\Ирина\Desktop\bot\OhMyFollowBot\obj\Debug\OhMyFollowBot.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\bot\OhMyFollowBot\bin\Debug\OhMyFollowBot.exe.config
+C:\Users\Ирина\Desktop\bot\OhMyFollowBot\bin\Debug\OhMyFollowBot.exe
+C:\Users\Ирина\Desktop\bot\OhMyFollowBot\bin\Debug\OhMyFollowBot.pdb
+C:\Users\Ирина\Desktop\bot\OhMyFollowBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ирина\Desktop\bot\OhMyFollowBot\bin\Debug\Telegram.Bot.dll
+C:\Users\Ирина\Desktop\bot\OhMyFollowBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ирина\Desktop\bot\OhMyFollowBot\bin\Debug\Telegram.Bot.xml
+C:\Users\Ирина\Desktop\bot\OhMyFollowBot\obj\Debug\OhMyFollowBot.csproj.CopyComplete
+C:\Users\Ирина\Desktop\bot\OhMyFollowBot\obj\Debug\OhMyFollowBot.exe
+C:\Users\Ирина\Desktop\bot\OhMyFollowBot\obj\Debug\OhMyFollowBot.pdb
